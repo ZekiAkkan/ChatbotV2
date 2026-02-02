@@ -21,6 +21,7 @@ Terminal başında (venv) görünüyorsa sanal ortam aktiftir.
 
 📦 Gerekli Kütüphanelerin Kurulumu
 pip install --upgrade pip
+pip install google-genai
 pip install PyQt5 google-generativeai
 
 🔑 API Key Ayarı (ÖNEMLİ)
